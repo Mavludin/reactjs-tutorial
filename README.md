@@ -1,2 +1,5 @@
-# reactjs-tutorial
-Базовые понятия React JS
+# Руководство по React JS для начинающих.
+**1.** [Что такое React и какую задачу он решает?](https://github.com/)  
+**2.** [Что необходимо знать перед тем, как приступить к изучению React?](https://github.com/)  
+**3.** [Особенности React](https://github.com/).  
+**4.** [Плюсы и минусы](https://github.com/).  
