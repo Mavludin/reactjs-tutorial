@@ -9,8 +9,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**5.2.** [Строки](https://learn.javascript.ru/string)  
 &nbsp;&nbsp;&nbsp;&nbsp;**5.3.** [Методы у примитивов](https://learn.javascript.ru/primitives-methods)  
 &nbsp;&nbsp;&nbsp;&nbsp;**5.4.** [Объекты](https://learn.javascript.ru/object):  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.2.1.** [Копирование объектов и ссылки](https://learn.javascript.ru/object-copy)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.2.1.** [Методы объекта и оператор this](https://learn.javascript.ru/object-methods)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.4.1.** [Копирование объектов и ссылки](https://learn.javascript.ru/object-copy)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.4.2.** [Методы объекта и оператор this](https://learn.javascript.ru/object-methods)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.4.3.** [Конструкторы, создание объектов через "new"](https://learn.javascript.ru/constructor-new)  
 &nbsp;&nbsp;&nbsp;&nbsp;**5.5.** [Массивы](https://learn.javascript.ru/array):  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5.5.1.** [Методы массивов](https://learn.javascript.ru/array-methods)   
 **6.** [Деструктуризация](https://learn.javascript.ru/destructuring-assignment)  
