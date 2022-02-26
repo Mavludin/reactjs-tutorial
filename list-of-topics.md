@@ -3,3 +3,4 @@
 **2.** [Что необходимо знать перед тем, как приступить к изучению React?](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/what-to-know.md)  
 **3.** [Особенности React](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/react-features.md)  
 **4.** [Начало работы с React](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/getting-started.md/)  
+**5.** [Знакомство с JSX](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/what-is-jsx.md)  
