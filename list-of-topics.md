@@ -4,3 +4,4 @@
 **3.** [Особенности React](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/react-features.md)  
 **4.** [Начало работы с React](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/getting-started.md/)  
 **5.** [Знакомство с JSX](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/what-is-jsx.md)  
+**6.** [Как писать JavaScript в JSX?](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/js-in-jsx.md)  
