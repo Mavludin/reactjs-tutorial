@@ -6,3 +6,4 @@
 **5.** [Знакомство с JSX](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/what-is-jsx.md)  
 **6.** [Как писать JavaScript в JSX?](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/js-in-jsx.md)  
 **7.** [Компоненты](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/components.md)  
+**8.** [Импорт и экспорт компонентов](https://github.com/Mavludin/reactjs-tutorial/blob/main/topics/import-export.md)  
