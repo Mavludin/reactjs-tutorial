@@ -13,7 +13,7 @@
 
 Создадим файл **Greeting.js** по пути **src/Greeting/Greeting.js** и объявим там компонент **Greeting**.  
 
-```
+```javascript
 const Greeting = () => {
   return (
     <h1>
@@ -26,7 +26,7 @@ const Greeting = () => {
 
 Используем именованный экспорт
 
-```
+```javascript
 export const Greeting = () => {
   return (
     <h1>
@@ -44,7 +44,7 @@ export const Greeting = () => {
 
 Используем именованный импорт
 
-```
+```javascript
 import { Greeting } from './Greeting/Greeting'
 
 function App() {
